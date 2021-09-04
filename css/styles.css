@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tituloTabla{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.table{
+    justify-content: center;
+    margin-left: 50px;
+}
